@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.iphone14pro{
+    box-shadow: 2px 17px 25px 0px rgba(0,0,0,0.48), 0px 0px 0px 1px rgba(0,0,0,1);
+}
